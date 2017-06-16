@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Foundation.Exception
 {
-    public class Class1
+    public enum ExceptionTypes
     {
+        ERROR_RETRIEVING_DATA = 100
     }
 }

@@ -4,7 +4,7 @@ using System;
 using System.Configuration;
 #endregion
 
-namespace RapidSitecore.Foundation.Logging
+namespace Foundation.Logging
 {
     /// <summary>
     /// Log Manager
